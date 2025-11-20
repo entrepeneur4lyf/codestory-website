@@ -24,7 +24,7 @@
         "@radix-ui/react-visually-hidden": "^1.1.1",
         "@tailwindcss/typography": "^0.5.13",
         "@vercel/speed-insights": "^1.0.12",
-        "@workos-inc/authkit-nextjs": "^0.8.1",
+        "@workos-inc/authkit-nextjs": "^2.11.1",
         "@workos-inc/node": "^7.13.0",
         "bright": "^0.8.5",
         "class-variance-authority": "^0.7.0",
